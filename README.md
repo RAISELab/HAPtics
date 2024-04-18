@@ -1,6 +1,10 @@
 # HAPtics
 
 
+
+<img src="https://github.com/RaiseLab/HAPtics/blob/main/fig/output_video-ezgif.gif" width="500" height="850" alt="Demo GIF">
+
+
 ## HAPtics prediction
 ![Description of GIF](https://github.com/RaiseLab/HAPtics/blob/main/fig/output_video-ezgif.gif)
 

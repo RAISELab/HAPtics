@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/RaiseLab/HAPtics/blob/main/fig/output_video-ezgif.gif" width="850" height="400" alt="Demo GIF">
+<img src="https://github.com/RaiseLab/HAPtics/blob/main/fig/output_video-ezgif.gif" width="850" height="500" alt="Demo GIF">
 
 
 ## HAPtics prediction

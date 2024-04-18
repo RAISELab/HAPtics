@@ -1,4 +1,4 @@
-# HAPTics
+# HAPtics
 
 
 <video width="1280" height="720" controls autoplay muted loop>

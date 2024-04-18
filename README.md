@@ -9,6 +9,9 @@ https://github.com/RaiseLab/HAPtics/blob/main/output1.gif
 https://github.com/RaiseLab/HAPtics/blob/main/output2.gif
 
 
+https://github.com/RaiseLab/HAPtics/blob/main/output3.gif
+
+
 
 <!DOCTYPE html>
 <html>

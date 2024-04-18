@@ -6,7 +6,7 @@
 
 
 
-## 360 view of human action for training
+## 360<sup>o view of human action for training
 ![Description of GIF](https://github.com/RaiseLab/HAPtics/blob/main/output1.gif)
 
 
